@@ -1,0 +1,2267 @@
+{
+    "Builder": {
+        "ID": "CCHInc",
+        "Province": "AB",
+        "Name": "Crystal Creek Homes",
+        "AgentTitle": "Area Sales Manager",
+        "CopyLeadEmail": "marketing@crystalcreekhomes.ca",
+        "Areas": [
+            {
+                "ID": "1",
+                "Name": "Calgary"
+            },
+            {
+                "ID": "2",
+                "Name": "Edmonton"
+            }
+        ],
+        "DefaultLeadEmail": {
+            "EmailAddress": "marketing@crystalcreekhomes.ca",
+            "SendToBuilderOnly": false
+        },
+        "About": {
+            "Description": "Founded in 2004, Crystal Creek Homes remains committed to our guiding principle of making the process of designing and building beautiful homes seamless and rewarding. From our award-winning floorplans, seamless design centre experience and unparalleled customer service this has allowed us to build homes in the most desirable communities across Calgary and Edmonton while always putting our customers first. With a commitment to innovations and technology, quality craftsmanship and Customer experience, Crystal Creek Homes is Your Pathway Home.\n\n Read more about us here: https://crystalcreekhomes.ca/about-us/"
+        },
+
+        "Faq": {
+            "RealtorResources": "Crystal Creek Homes' VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+            "InvestorInformation": "Invest in local Canadian real estate markets through the CCH Mutual Fund Trust.  Learn more at https://cchmft.com/ \n\nWe also offer Leaseback Showhomes, a smart investment for various reasons. For more details, please click here: https://crystalcreekhomes.ca/news/3530/",
+            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+            "AgeRestriction": "",
+            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+            "Incentive": "Fall Savings Event on all move-in ready homes. Save $10,000 or take advantage of our exclusive 2.99% interest rate through December 15th, 2024.",
+            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+        },
+        "Divisions": [
+            {
+                "ID": "CCHYEG",
+                "Name": "Edmonton",
+                "LeadEmail": "marketing@crystalcreekhomes.ca",
+                "CopyLeadEmail": "shane.mclaughlin@crystalcreekhomes.ca",
+                "Faq": {
+                    "RealtorResources": "Crystal Creek Homes' VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                    "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                    "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                    "Careers": "For current job postings, please check out https: //crystalcreekhomes.ca/contact-us/#career",
+                    "AgeRestriction": "",
+                    "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                    "Incentive": "Fall Savings Event on all move-in ready homes. Save $10,000 or take advantage of our exclusive 2.99% interest rate through December 15th, 2024.",
+                    "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                    "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                    "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                    "NightlyRental": "",
+                    "HomesForRent": "",
+                    "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                    "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                    "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                },
+                "Communities": [
+                    {
+                        "ID": "Elan2052",
+                        "Name": "Elan",
+                        "Description": "Nestled right outside of Edmonton, Elan is a charming small town that pays homage to Beaumont’s vibrant Franco-Albertan heritage. Its warm and welcoming porches, distinct New France-inspired architecture, and laid-back pace of life exude a cozy vibe. With over 28 kilometers of trails, parks, and recreational facilities, Elan offers a variety of year-round activities to keep you engaged and inspired.",
+                        "Website": "https://crystalcreekhomes.ca/community/elan/",
+                        "AreaID": "2",
+                        "Status": "Active",
+                        "PriceLow": 430000,
+                        "PriceHigh": 750000,
+                        "SqFtLow": 1550,
+                        "SqFtHigh": 2800,
+                        "CopyDivisionLeadEmail": false,
+                        "LeadEmail": "elan@crystalcreekhomes.ca",
+                        "DrivingDirections": "South of Edmonton on 50th Street to Township Road 510, west to Range Road 243, south to 53 Ave and follow the signs to the showhome.  Or, Township Road 504 to Range Road 243, north to 53 Ave, and follow the signs.",
+                        "Faq": {
+                            "RealtorResources": "Crystal Creek Homes' VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/contact-us/#realtors",
+                            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+                            "AgeRestriction": "",
+                            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                            "Incentive": "Fall Savings Event on all move-in ready homes. Save $10,000 or take advantage of our exclusive 2.99% interest rate through December 15th, 2024.",
+                            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                        },
+                        "SalesOffice": {
+                            "ResponseTime": "24 hours",
+                            "Hours": "Open Monday to Thursday 2 pm to 8 pm. Saturdays and Sundays 12am to 5 pm.",
+                            "Address": {
+                                "Street1": "7114 52 Ave",
+                                "City": "Beaumont",
+                                "Province": "AB",
+                                "PostalCode": "T4X 2Z8"
+                            }
+                        },
+                        "Agent": {
+                            "Name": "Candice Krecsy",
+                            "EmailAddress": "elan@crystalcreekhomes.ca",
+                            "Address": {
+                                "Street1": "7114 52 Ave",
+                                "City": "Beaumont",
+                                "Province": "AB",
+                                "PostalCode": "T4X 2Z8",
+                                "Country": "Canada",
+                                "GeoLocation": "53.355031, -113.443478"
+                            }
+                        },
+                        "Phone": {
+                            "CountryCode": "1",
+                            "AreaCode": "780",
+                            "Prefix": "702",
+                            "Suffix": "6198"
+                        },
+                        "Schools": {
+                            "Board": "Beaumont is part of the Black Gold school division, please refer to https://www.blackgold.ca/schools/ for school information."
+                        },
+                        "InteractiveMedia": {
+                            "DesignCenter": "https://edc2.envisionoptions.com/org-4000902/presales/plan-8339834/home/index",
+                            "InteractiveSitePlan": "https://crystalcreekhomes.ca/community/elan/"
+                        },
+                        "Plans": [
+                            {
+                                "ID": "TheOrchid20",
+                                "Name": "The Orchid 20",
+                                "MarketingHeadline": "Ideal home for multi-generational families.",
+                                "Description": "The Orchid 20 features a main floor bedroom perfect for older parents or out-of-town guests, along with three large bedrooms upstairs.  An upstairs laundry and large walk-in closet complete the checklist of must-haves.  A flexible floorplan allows for a revenue suite in the basement.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 494900,
+                                "PriceHigh": 509900,
+                                "SqFtLow": 1744,
+                                "SqFtHigh": 1744,
+                                "Stories": 2,
+                                "Baths": 3,
+                                "Bedrooms": 4,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "TheDahlia18",
+                                "Name": "The Dahlia 18",
+                                "MarketingHeadline": "A cute starter home for young families.",
+                                "Description": "The Dahlia 18 is a fully-featured house, which includes an upstairs laundry, large kitchen, clever mud room, and three bedrooms upstairs.  A flexible floorplan allows for a revenue suite in the basement.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 404900,
+                                "PriceHigh": 434900,
+                                "SqFtLow": 1358,
+                                "SqFtHigh": 1358,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "TheAres20",
+                                "Name": "The Ares 20",
+                                "MarketingHeadline": "Innovative rear-attached garage with incredible outdoor space.",
+                                "Description": "The Ares 20 includes a unique rear-attached garage with an extremely private outdoor living space above.  Keep it private off the master bedroom or make it accessible from the main floor deck below.  The main floor is an amazing open floor plan with tons of light thanks to the large patio door opening onto a deck that's perfect for a BBQ or a dog run.  A flexible floorplan allows for a revenue suite in the basement.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 505900,
+                                "PriceHigh": 519900,
+                                "SqFtLow": 1558,
+                                "SqFtHigh": 1558,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "TheMahogany24",
+                                "Name": "The Mahogany 24",
+                                "MarketingHeadline": "Our most-popular plan.",
+                                "Description": "The Mahogany 24 has everything - gorgeous kitchen, 3- or 4-bedroom layout option, upstairs laundry, main-floor den, and a dramatic 2-story great room.  The large bonus room backs onto the great room and gives an impressive sense of scale.  Flexible floorplan options include a spice/prep kitchen, main floor bedroom, and basement revenue suite.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 576900,
+                                "PriceHigh": 591900,
+                                "SqFtLow": 2235,
+                                "SqFtHigh": 2235,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 4,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "TheMaple24",
+                                "Name": "The Maple 24",
+                                "MarketingHeadline": "Built for working (or playing) at home.",
+                                "Description": "The Maple 24 includes a large, bright kitchen and eating nook on the main floor, along with a den that is perfect as a home office or a kids' play space.  A spacious bonus room complements a large master bedroom with an extra-large ensuite bathroom and walk-in closet.  Flexible floorplan options include a basement revenue suite with a separate entrance.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 551800,
+                                "PriceHigh": 566800,
+                                "SqFtLow": 1936,
+                                "SqFtHigh": 1936,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "ThePine22",
+                                "Name": "The Pine 22",
+                                "MarketingHeadline": "4 bedrooms and a den at an affordable price.",
+                                "Description": "The Pine 22 exists partly in another dimension - how else can we explain a house that includes a main floor den, with 4 bedrooms and a full-size laundry room upstairs - all in under 1800 sq ft?",
+                                "Type": "SingleFamily",
+                                "PriceLow": 509900,
+                                "PriceHigh": 537900,
+                                "SqFtLow": 1772,
+                                "SqFtHigh": 1772,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 4,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "TheWalnut22",
+                                "Name": "The Walnut 22",
+                                "MarketingHeadline": "Affordable front-attached garage plan under $500,000.",
+                                "Description": "The Walnut 22 is perfect for young families or empty-nesters, who want a front-attached garage and an actual back yard.  Three spacious bedrooms, large bonus room, and laundry upstairs provide everything you need for rest and relaxation.  A full-size kitchen, eating nook, large great room and walk-through pantry round out the main floor.  An optional side entrance and basement revenue suite make this house affordable for just about every income.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 481800,
+                                "PriceHigh": 510800,
+                                "SqFtLow": 1662,
+                                "SqFtHigh": 1662,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "MapleCrest2054",
+                        "Name": "Maple Crest",
+                        "Description": "Leave the city behind…but not out of sight! Nestled by the Fulton wetlands, this forested enclave community has incredible downtown views and acres of ravine park and green space. The natural setting that defines this community provides for a tranquil setting just minutes from shopping, restaurants, and schools!  Convenient access to transit, Whitemud, and the Henday ring road make getting into or out of Maple Crest quick and easy.",
+                        "Website": "https://crystalcreekhomes.ca/community/maple-crest-single-family/",
+                        "AreaID": "2",
+                        "Status": "Active",
+                        "PriceLow": 430000,
+                        "PriceHigh": 750000,
+                        "SqFtLow": 1550,
+                        "SqFtHigh": 2800,
+                        "CopyDivisionLeadEmail": false,
+                        "LeadEmail": "maplecrest@crystalcreekhomes.ca",
+                        "DrivingDirections": "From the west, take Whitemud Drive east to 17th Street, south on 17th St to Maple Road (first left turn), east on Maple Road and then west on 37 Ave to the showhome.  From the north, take the Anthony Henday to Whitemud Drive, and then Whitemud west to 17 St.  From the south, take the Henday to 17th St and then north to Maple Road.",
+                        "Faq": {
+                            "RealtorResources": "Crystal Creek Homes’ VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+                            "AgeRestriction": "",
+                            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                            "Incentive": "Fall Savings Event on all move-in ready homes. Save $10,000 or take advantage of our exclusive 2.99% interest rate through December 15th, 2024.",
+                            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                        },
+                        "SalesOffice": {
+                            "ResponseTime": "24 hours",
+                            "Hours": "Open Monday to Thursday 2 pm to 8 pm. Saturdays, Sundays, and holidays from 12 pm to 5 pm.",
+                            "Address": {
+                                "Street1": "531 37 Ave NW",
+                                "City": "Edmonton",
+                                "Province": "AB",
+                                "PostalCode": "T6T 2L5"
+                            }
+                        },
+                        "Agent": {
+                            "Name": "Sukhjinder Dusanjh",
+                            "EmailAddress": "maplecrest@crystalcreekhomes.ca"
+                        },
+                        "Address": {
+                            "Street1": "531 37 Ave NW",
+                            "Street2": "",
+                            "County": "",
+                            "City": "Edmonton",
+                            "Province": "AB",
+                            "PostalCode": "T6T 2L5",
+                            "Country": "Canada",
+                            "GeoLocation": "53.472862373911454, -113.35055836154123"
+                        },
+                        "Phone": {
+                            "CountryCode": "1",
+                            "AreaCode": "780",
+                            "Prefix": "702",
+                            "Suffix": "6197",
+                            "Extension": ""
+                        },
+                        "Schools": {
+                            "Board": "Maple Crest is part of the Edmonton Public and Edmonton Catholic school divisions, please refer to https://www.epsb.ca or https://www.ecsd.net  for school information.",
+                            "Primary": "",
+                            "Secondary": ""
+                        },
+                        "InteractiveMedia": {
+                            "VirtualTour": "",
+                            "DesignCenter": "https://edc2.envisionoptions.com/org-4000902/presales/plan-8339835/home/index",
+                            "InteractiveSitePlan": "https://crystalcreekhomes.ca/community/maple-crest-single-family/"
+                        },
+                        "Plans": [
+                            {
+                                "ID": "TheOrchid20",
+                                "Name": "The Orchid 20",
+                                "MarketingHeadline": "Ideal home for multi-generational families.",
+                                "Description": "The Orchid 20 features a main floor bedroom perfect for older parents or out-of-town guests, along with three large bedrooms upstairs.  An upstairs laundry and large walk-in closet complete the checklist of must-haves.  A flexible floorplan allows for a revenue suite in the basement.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 508000,
+                                "PriceHigh": 512000,
+                                "SqFtLow": 1744,
+                                "SqFtHigh": 1744,
+                                "Stories": 2,
+                                "Baths": 3,
+                                "Bedrooms": 4,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "TheDahlia20",
+                                "Name": "The Dahlia 20",
+                                "MarketingHeadline": "A great starter home for young families.",
+                                "Description": "The Dahlia 20 is our smallest house and includes an upstairs laundry, large kitchen, clever mud room, and three bedrooms upstairs.  A flexible floorplan allows for a revenue suite in the basement.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 465000,
+                                "PriceHigh": 469900,
+                                "SqFtLow": 1484,
+                                "SqFtHigh": 1484,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "TheAres20",
+                                "Name": "The Ares 20",
+                                "MarketingHeadline": "Innovative rear-attached garage with incredible outdoor space.",
+                                "Description": "The Ares 20 includes a unique rear-attached garage with an extremely private outdoor living space above.  Keep it private off the master bedroom or make it accessible from the main floor deck below.  The main floor is an amazing open floor plan with tons of light thanks to the large patio door opening onto a deck that's perfect for a BBQ or a dog run.  A flexible floorplan allows for a revenue suite in the basement.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 519900,
+                                "PriceHigh": 522900,
+                                "SqFtLow": 1586,
+                                "SqFtHigh": 1586,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "TheMahogany24",
+                                "Name": "The Mahogany 24",
+                                "MarketingHeadline": "Our most-popular plan.",
+                                "Description": "The Mahogany 24 has everything - gorgeous kitchen, 3- or 4-bedroom layout option, upstairs laundry, main-floor den, and a dramatic 2-story great room.  The large bonus room backs onto the great room and gives an impressive sense of scale.  Flexible floorplan options include a spice/prep kitchen, main floor bedroom, and basement revenue suite.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 627000,
+                                "PriceHigh": 630000,
+                                "SqFtLow": 2235,
+                                "SqFtHigh": 2235,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 4,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "TheMaple24",
+                                "Name": "The Maple 24",
+                                "MarketingHeadline": "Built for working (or playing) at home.",
+                                "Description": "The Maple 24 includes a large, bright kitchen and eating nook on the main floor, along with a den that is perfect as a home office or a kids' play space.  A spacious bonus room complements a large master bedroom with an extra-large ensuite bathroom and walk-in closet.  Flexible floorplan options include a basement revenue suite with a separate entrance.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 600900,
+                                "PriceHigh": 604900,
+                                "SqFtLow": 1936,
+                                "SqFtHigh": 1936,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "ThePine22",
+                                "Name": "The Pine 22",
+                                "MarketingHeadline": "4 bedrooms and a den at an affordable price.",
+                                "Description": "The Pine 22 exists partly in another dimension - how else can we explain a house that includes a main floor den, with 4 bedrooms and a full-size laundry room upstairs - all in under 1800 sq ft?",
+                                "Type": "SingleFamily",
+                                "PriceLow": 539900,
+                                "PriceHigh": 541900,
+                                "SqFtLow": 1772,
+                                "SqFtHigh": 1772,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 4,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "TheWalnut22",
+                                "Name": "The Walnut 22",
+                                "MarketingHeadline": "Affordable front-attached garage plan.",
+                                "Description": "The Walnut 22 is perfect for young families or empty-nesters, who want a front-attached garage and an actual back yard.  Three spacious bedrooms, large bonus room, and laundry upstairs provide everything you need for rest and relaxation.  A full-size kitchen, eating nook, large great room and walk-through pantry round out the main floor.  An optional side entrance and basement revenue suite make this house affordable for just about every income.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 520900,
+                                "PriceHigh": 523900,
+                                "SqFtLow": 1662,
+                                "SqFtHigh": 1662,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "TheWalnut24",
+                                "Name": "The Walnut 24",
+                                "MarketingHeadline": "Same as the Walnut 22, but larger.",
+                                "Description": "The Walnut 24 gives you everything the Walnut 22 has, just a little more of it.  Add a side entrance for a revenue suite to make it even more affordable.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 545000,
+                                "PriceHigh": 548000,
+                                "SqFtLow": 1763,
+                                "SqFtHigh": 1763,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "ThePoplar26",
+                                "Name": "The Poplar 26",
+                                "MarketingHeadline": "A front-attached classic.",
+                                "Description": "The Poplar 26 features a peninsula kitchen with huge counter space, three good-sized bedrooms and a large bonus room.  Add a side entrance for a revenue suite to make it even more affordable.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 597000,
+                                "PriceHigh": 599000,
+                                "SqFtLow": 1974,
+                                "SqFtHigh": 1974,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "TheBirch26",
+                                "Name": "The Birch 26",
+                                "MarketingHeadline": "Our largest 26-foot lot plan.",
+                                "Description": "The Birch provides maximum square footage for the most common lot size.  With a main floor den, massive kitchen island, walk-through pantry, and three large bedrooms upstairs this house provides an abundance of space for families with older kids.  Features a side entrance to the basement for a potential revenue suite.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 659000,
+                                "PriceHigh": 661000,
+                                "SqFtLow": 2367,
+                                "SqFtHigh": 2367,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "TheSycamore26",
+                                "Name": "The Sycamore 26",
+                                "MarketingHeadline": "A popular plan with a main floor den.",
+                                "Description": "The Sycamore 26 is the Sycamore 28's little sister, with many of the same great features in a smaller package that fits on modern lot sizes.  This house features a large den on the main floor with an option for a bedroom and full bath, and an open and inviting kitchen perfect for family gatherings.  The master bedroom is a truly huge getaway space after a hectic day.  A side entrance to the basement comes standard, for a potential revenue suite.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 634000,
+                                "PriceHigh": 631000,
+                                "SqFtLow": 2075,
+                                "SqFtHigh": 2077,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "Prescott2053",
+                        "Name": "Prescott",
+                        "Description": "Explore our final quick possession homes in Prescott. Prescott homes boast an impressive blend of architectural styles amidst lush greenery, pristine landscaping, and nearby parks. These modern abodes offer stunning exteriors, top-notch finishes, spacious high ceilings, sleek kitchens, and picturesque views that epitomize sophisticated living. Whatever your style, each home provides a tranquil community for peaceful living. Check out the showhomes in Prescott to experience it for yourself.",
+                        "Website": "https://crystalcreekhomes.ca/community/prescott/",
+                        "AreaID": "2",
+                        "Status": "Active",
+                        "PriceLow": 430000,
+                        "PriceHigh": 610000,
+                        "SqFtLow": 1550,
+                        "SqFtHigh": 2400,
+                        "CopyDivisionLeadEmail": false,
+                        "LeadEmail": "prescott@crystalcreekhomes.ca",
+                        "DrivingDirections": "If you're in Spruce Grove, take Grove Drive east to Pioneer Road, then north to Prescott Boulevard.  Turn east on Prescott Boulevard and take your first left onto Penn Place, and follow it around to the showhomes.  If you're coming from Edmonton, take Stony Plain Road (Highway 16A) west to Pioneer Road, and take Pioneer Road north to Prescott Boulevard. Or, take the Yellowhead Highway west to Century Road, then south to Grove Drive, east to Pioneer Road, and north to Prescott Boulevard.",
+                        "Faq": {
+                            "RealtorResources": "Crystal Creek Homes’ VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+                            "AgeRestriction": "",
+                            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                            "Incentive": "Fall Savings Event on all move-in ready homes. Save $10,000 or take advantage of our exclusive 2.99% interest rate through December 15th, 2024.",
+                            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                            "NightlyRental": "",
+                            "HomesForRent": "",
+                            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                        },
+                        "SalesOffice": {
+                            "ResponseTime": "24 hours",
+                            "Hours": "Please contact Candice for an appointment to view one of our available quick-possession homes, or visit Prescott's page on our website at https://crystalcreekhomes.ca/community/prescott/.",
+                            "Address": {
+                                "Street1": "29 Penn Place",
+                                "City": "Spruce Grove",
+                                "Province": "AB",
+                                "PostalCode": "T7X 2W6"
+                            }
+                        },
+                        "Agent": {
+                            "Name": "Candice Krecsy",
+                            "EmailAddress": "prescott@crystalcreekhomes.ca"
+                        },
+                        "Address": {
+                            "Street1": "29 Penn Place",
+                            "Street2": "",
+                            "County": "",
+                            "City": "Spruce Grove",
+                            "Province": "AB",
+                            "PostalCode": "T7X 2W6",
+                            "Country": "Canada",
+                            "GeoLocation": "53.56159181673531, -113.8587004497489"
+                        },
+                        "Phone": {
+                            "CountryCode": "1",
+                            "AreaCode": "780",
+                            "Prefix": "702",
+                            "Suffix": "6190",
+                            "Extension": ""
+                        },
+                        "Schools": {
+                            "Board": "The Prescott Learning Centre is a K-9 school located right in the community.  Spruce Grove is part of the Parkland County school division, please refer to https://www.psd.ca/schools/schools-listing for additional school information.",
+                            "Primary": "",
+                            "Secondary": ""
+                        },
+                        "InteractiveMedia": {
+                            "VirtualTour": "",
+                            "DesignCenter": "https://edc2.envisionoptions.com/org-4000902/presales/plan-8339836/home/index",
+                            "InteractiveSitePlan": "https://crystalcreekhomes.ca/community/prescott/"
+                        }
+                    }
+                ]
+            },
+            {
+                "ID": "CCHYYC",
+                "Name": "Calgary",
+                "LeadEmail": "marketing@crystalcreekhomes.ca",
+                "CopyLeadEmail": "Brooklyn.bobier@crystalcreekhomes.ca",
+                "Faq": {
+                    "RealtorResources": "Crystal Creek Homes' VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                    "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                    "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                    "Careers": "For current job postings, please check out https: //crystalcreekhomes.ca/contact-us/#career",
+                    "AgeRestriction": "",
+                    "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                    "Incentive": "Take advantage of our exclusive 2.99% interest rate on qualifying quick possession homes. See sales centre for full details.",
+                    "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                    "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                    "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                    "NightlyRental": "",
+                    "HomesForRent": "",
+                    "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                    "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                    "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                },
+                "Communities": [
+                    {
+                        "ID": "AspenWoods",
+                        "Name": "Aspen Woods Estates",
+                        "Description": "Aspen Woods Estates is one of Calgary’s most desirable Southwest Estate communities, with easy access to the Aspen Landing Shopping Centre, Calgary city transit, excellent schools, parks, and pathways! Aspen Woods Estates is the perfect little slice of suburban estate living, and everything AWEsome Calgary has to offer!",
+                        "Website": "https://crystalcreekhomes.ca/community/aspen-woods-estates/",
+                        "AreaID": "1",
+                        "Status": "Active",
+                        "PriceLow": 1298000,
+                        "PriceHigh": 1603000,
+                        "SqFtLow": 1958,
+                        "SqFtHigh": 3175,
+                        "CopyDivisionLeadEmail": false,
+                        "LeadEmail": "aspenwoods@crystalcreekhomes.ca",
+                        "DrivingDirections": "Located off Aspen Summit Drive, just east of 85 St SW behind the Aspen Landing shopping centre.",
+                        "Faq": {
+                            "RealtorResources": "Crystal Creek Homes' VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+                            "AgeRestriction": "",
+                            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                            "Incentive": "Take advantage of our exclusive 2.99% interest rate on qualifying quick possession homes. See sales centre for full details.",
+                            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                        },
+                        "SalesOffice": {
+                            "ResponseTime": "24 hours",
+                            "Hours": "Open Monday to Thursday 2 pm to 8 pm. Saturdays and Sundays 12am to 5 pm.",
+                            "Address": {
+                                "Street1": "341 Aspen Summit Heights SW",
+                                "City": "Calgary",
+                                "Province": "AB",
+                                "PostalCode": "T3H 6G8"
+                            },
+                            "Agent": {
+                                "Name": "Brent Piercy",
+                                "EmailAddress": "aspenwoods@crystalcreekhomes.ca"
+                            }
+                        },
+                        "Address": {
+                            "Street1": "341 Aspen Summit Heights SW",
+                            "City": "Calgary",
+                            "Province": "AB",
+                            "PostalCode": "T3H 6G8",
+                            "Country": "Canada",
+                            "GeoLocation": "51.042660707697245, -114.20779151710038"
+                        },
+                        "Phone": {
+                            "CountryCode": "1",
+                            "AreaCode": "403",
+                            "Prefix": "452",
+                            "Suffix": "7821"
+                        },
+                        "Schools": {
+                            "Board": "Calgary has many public and private school options nearby to Aspen Woods Estates.  Visit https://www.cbe.ab.ca or https://www.cssd.ab.ca/, or talk to our helpful area sales manager for more details."
+                        },
+                        "InteractiveMedia": {
+                            "DesignCenter": "",
+                            "InteractiveSitePlan": "https://crystalcreekhomes.ca/community/aspen-woods-estates/"
+                        },
+                        "Plans": [
+                            {
+                                "ID": "The Dorchester 48",
+                                "Name": "The Dorchester 48",
+                                "MarketingHeadline": "Our most popular bungalow model",
+                                "Description": "Step into elegance with this sophisticated bungalow model, featuring an open-concept main floor that seamlessly blends style and functionality. Bask in the grandeur of high ceilings, enhancing the spaciousness and ambiance of every room. Immerse yourself in luxury with meticulously curated finishes, elevating the home's aesthetic and appeal to new heights.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1500000,
+                                "PriceHigh": 1603000,
+                                "SqFtLow": 1958,
+                                "SqFtHigh": 1958,
+                                "Stories": 1,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 1,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Sheffield 34",
+                                "Name": "The Sheffield 34",
+                                "MarketingHeadline": "The perfect move up family home",
+                                "Description": "This ideal family home offers a spacious layout on both the main and upper floors, ensuring ample room for every member of the family. With abundant storage solutions and customizable floorplan options, it's designed to accommodate your family's evolving needs and lifestyle seamlessly.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1363000,
+                                "PriceHigh": 1456000,
+                                "SqFtLow": 2771,
+                                "SqFtHigh": 2771,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "The Mason 38",
+                                "Name": "The Mason 38",
+                                "MarketingHeadline": "Open concept main floor with private office space.",
+                                "Description": "Experience luxury living in this meticulously designed two-story home boasting an expansive open-concept kitchen, perfect for entertaining guests or enjoying family gatherings. Discover productivity and comfort in the stylishly appointed office space, ideal for working from home. Unwind in the spacious bonus room, offering endless possibilities for relaxation or recreation. Retreat to the lavish primary suite, flooded with natural light, and indulge in the opulent ensuite, creating a serene oasis for rejuvenation.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1367000,
+                                "PriceHigh": 1460000,
+                                "SqFtLow": 2856,
+                                "SqFtHigh": 2856,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Easton 38",
+                                "Name": "The Easton 38",
+                                "MarketingHeadline": "Spacious main floor with options for main floor bedroom",
+                                "Description": "Step into modern elegance with this home's open-concept main floor, where spaciousness meets seamless design. Retreat to the generously sized secondary bedrooms and luxurious primary suite, offering unparalleled comfort and tranquility. Embrace versatility with a flexible main floor flex space, ready to accommodate your lifestyle with customizable options tailored to your preferences.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1330000,
+                                "PriceHigh": 1435000,
+                                "SqFtLow": 3081,
+                                "SqFtHigh": 3081,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 4,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Berkshire 34",
+                                "Name": "The Berkshire 34",
+                                "MarketingHeadline": "Open to above living room with open concept main floor",
+                                "Description": "Experience unparalleled luxury in this exceptional two-story home, boasting a triple garage for ample vehicle storage and convenience. Step into the grandeur of the open-concept main floor, seamlessly blending style and functionality, with a breathtaking open-to-above living room that exudes elegance. Find productivity and tranquility in the dedicated office space, while the expansive bonus room offers endless possibilities for leisure and entertainment. Retreat to the lavish primary suite, accompanied by two secondary bedrooms, creating an idyllic sanctuary for family living at its finest.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1298000,
+                                "PriceHigh": 1386000,
+                                "SqFtLow": 2760,
+                                "SqFtHigh": 2760,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Devonshire 36",
+                                "Name": "The Devonshire 36",
+                                "MarketingHeadline": "Spacious open concept and functional floorplan",
+                                "Description": "Discover the epitome of modern living in this impressive two-story home, complete with a triple car garage for convenience and functionality. Enjoy the spacious layout, designed to accommodate your lifestyle with ease, including a versatile main floor flex space perfect for customization to suit your needs. Unwind or entertain in the expansive bonus room, offering ample space for relaxation or leisure activities. Explore the various optional floorplan options, allowing you to personalize your living space to perfection.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1362000,
+                                "PriceHigh": 1456000,
+                                "SqFtLow": 2791,
+                                "SqFtHigh": 2791,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Somerton 38",
+                                "Name": "The Somerton 38",
+                                "MarketingHeadline": "Our best selling award winning floorplan",
+                                "Description": "Indulge in the epitome of luxury living with this exquisite two-story home, featuring a triple garage for ultimate convenience. Entertain with ease in the expansive open-concept main floor, highlighted by a captivating open-to-above living room that elevates the atmosphere. Stay productive in the thoughtfully designed office space, and unwind in the spacious bonus room, perfect for relaxation or recreation. Retreat to the opulent primary suite, accompanied by two secondary bedrooms, offering a perfect blend of comfort and style for the whole family.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1409000,
+                                "PriceHigh": 1504000,
+                                "SqFtLow": 3156,
+                                "SqFtHigh": 3156,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Grayson 38",
+                                "Name": "The Grayson 38",
+                                "MarketingHeadline": "The perfect family friendly home",
+                                "Description": "Welcome to luxury living redefined in this stunning two-story residence, featuring an inviting open-concept kitchen, seamlessly blending style and functionality for effortless entertaining. Enjoy the convenience of a dedicated office space, tailored for today's remote work demands. Embrace versatility in the expansive bonus room, offering limitless potential for leisure and relaxation. Retreat to the opulent primary suite, complemented by two secondary bedrooms, creating the perfect haven for family harmony and comfort.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1362000,
+                                "PriceHigh": 1456000,
+                                "SqFtLow": 2921,
+                                "SqFtHigh": 2921,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "Belvedere",
+                        "Name": "Belvedere",
+                        "Description": "New Laned Homes just released! Welcome to Belvedere, a one-of-a-kind community situated in a prime location next to the East Hill Shopping Centre, just a 15-minute drive from downtown Calgary. It is poised to become one of the city’s most desirable communities. When you step through the front door of a Belvedere home, you are welcomed into a world of exploration, connection, and experience. Neighbours become like family and friends, fostering a sense of community and safety that is both comforting and inviting. We currently have quick possession opportunities available with new lots being released in Summer 2024.",
+                        "Website": "https://crystalcreekhomes.ca/community/belvedere/",
+                        "AreaID": "1",
+                        "Status": "Active",
+                        "PriceLow": 749900,
+                        "PriceHigh": 839900,
+                        "SqFtLow": 1869,
+                        "SqFtHigh": 2599,
+                        "CopyDivisionLeadEmail": false,
+                        "LeadEmail": "belvedere@crystalcreekhomes.ca",
+                        "DrivingDirections": "Located north of 17 Ave SE and east of Stoney Trail, turn north on 84 St SE from 17 Ave SE and follow the signs to your new dream home!",
+                        "Faq": {
+                            "RealtorResources": "Crystal Creek Homes’ VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+                            "AgeRestriction": "",
+                            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                            "Incentive": "Take advantage of our exclusive 2.99% interest rate on qualifying quick possession homes. See sales centre for full details.",
+                            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                        },
+                        "SalesOffice": {
+                            "ResponseTime": "24 hours",
+                            "Hours": "Open Monday to Thursday 2 pm to 8 pm. Saturdays, Sundays, and holidays from 12 pm to 5 pm.",
+                            "Address": {
+                                "Street1": "272 Belvedere Drive SE",
+                                "City": "Calgary",
+                                "Province": "AB",
+                                "PostalCode": "T2A 7M5"
+                            },
+                            "Agent": {
+                                "Name": "Stefen Vavrek",
+                                "EmailAddress": "belvedere@crystalcreekhomes.ca"
+                            }
+                        },
+                        "Address": {
+                            "Street1": "272 Belvedere Drive SE",
+                            "Street2": "",
+                            "County": "",
+                            "City": "Calgary",
+                            "Province": "AB",
+                            "PostalCode": "T2A 7M5",
+                            "Country": "Canada",
+                            "GeoLocation": "51.04513622332719, -113.90346953059404"
+                        },
+                        "Phone": {
+                            "CountryCode": "1",
+                            "AreaCode": "403",
+                            "Prefix": "984",
+                            "Suffix": "3501",
+                            "Extension": ""
+                        },
+                        "Schools": {
+                            "Board": "Visit https://www.cbe.ab.ca or https://www.cssd.ab.ca/, or talk to our helpful area sales manager for more details on local schools.",
+                            "Primary": "",
+                            "Secondary": ""
+                        },
+                        "InteractiveMedia": {
+                            "VirtualTour": "",
+                            "DesignCenter": "https://edc2.envisionoptions.com/org-4000950/presales/plan-8348111/home/index",
+                            "InteractiveSitePlan": "https://crystalcreekhomes.ca/community/belvedere/"
+                        }
+                    },
+                    {
+                        "ID": "Currie",
+                        "Name": "Currie",
+                        "Description": "All You Need In One Great Location. Everything is local in this community, including retail centres, dining opportunities, and a lively business centre. Schools and parks are nearby, and downtown Calgary is just 7 minutes away. Living in Currie means embracing community, living local, and choosing the perfect home to suit your lifestyle. Welcome to New Urbanism.",
+                        "Website": "https://crystalcreekhomes.ca/community/currie",
+                        "AreaID": "1",
+                        "Status": "Active",
+                        "PriceLow": 1474000,
+                        "PriceHigh": 1965000,
+                        "SqFtLow": 1958,
+                        "SqFtHigh": 3587,
+                        "CopyDivisionLeadEmail": false,
+                        "LeadEmail": "currie@crystalcreekhomes.ca",
+                        "DrivingDirections": "Nestled between Crowchild Trail and Sarcee Road, access is easy.  Take the Flanders Ave exit from Crowchild and follow Flanders Ave to Quesnay Wood Drive, then turn north to Calais Drive.  From Sarcee Road, take Richardson Way east to Quesnay Wood Drive, and follow it north to Calais Drive.",
+                        "Faq": {
+                            "RealtorResources": "Crystal Creek Homes’ VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+                            "AgeRestriction": "",
+                            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                            "Incentive": "Take advantage of our exclusive 2.99% interest rate on qualifying quick possession homes. See sales centre for full details.",
+                            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                        },
+                        "SalesOffice": {
+                            "ResponseTime": "24 hours",
+                            "Hours": "Open Monday to Thursday 2 pm to 8 pm. Saturdays, Sundays, and holidays from 12 pm to 5 pm.",
+                            "Address": {
+                                "Street1": "219 Calais Drive SW",
+                                "City": "Calgary",
+                                "Province": "AB",
+                                "PostalCode": "T3E 7M3"
+                            },
+                            "Agent": {
+                                "Name": "Shannon Lenstra",
+                                "EmailAddress": "currie@crystalcreekhomes.ca"
+                            }
+                        },
+                        "Address": {
+                            "Street1": "219 Calais Drive SW",
+                            "Street2": "",
+                            "County": "",
+                            "City": "Calgary",
+                            "Province": "AB",
+                            "PostalCode": "T3E 7M3",
+                            "Country": "Canada",
+                            "GeoLocation": "51.020306271357775, -114.12477553693198"
+                        },
+                        "Phone": {
+                            "CountryCode": "1",
+                            "AreaCode": "403",
+                            "Prefix": "452",
+                            "Suffix": "3571",
+                            "Extension": ""
+                        },
+                        "Schools": {
+                            "Board": "Visit https://www.cbe.ab.ca or https://www.cssd.ab.ca/, or talk to our helpful area sales manager for more details on local schools.",
+                            "Primary": "",
+                            "Secondary": ""
+                        },
+                        "InteractiveMedia": {
+                            "VirtualTour": "",
+                            "DesignCenter": "",
+                            "InteractiveSitePlan": "https://crystalcreekhomes.ca/community/currie/"
+                        },
+                        "Plans": [
+                            {
+                                "ID": "The Dorchester 48",
+                                "Name": "The Dorchester 48",
+                                "MarketingHeadline": "Our most popular bungalow model",
+                                "Description": "Step into elegance with this sophisticated bungalow model, featuring an open-concept main floor that seamlessly blends style and functionality. Bask in the grandeur of high ceilings, enhancing the spaciousness and ambiance of every room. Immerse yourself in luxury with meticulously curated finishes, elevating the home's aesthetic and appeal to new heights.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1677000,
+                                "PriceHigh": 1965000,
+                                "SqFtLow": 2043,
+                                "SqFtHigh": 2043,
+                                "Stories": 1,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 1,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Somerfield 46",
+                                "Name": "The Somerfield 46",
+                                "MarketingHeadline": "Stunning Open Concept floorplan",
+                                "Description": "Welcome to luxury living redefined in this stunning two-story residence, featuring an inviting open-concept kitchen, seamlessly blending style and functionality for effortless entertaining. Enjoy the convenience of a dedicated office space, tailored for today's remote work demands. Embrace versatility in the expansive bonus room, offering limitless potential for leisure and relaxation. Retreat to the opulent primary suite, complemented by two secondary bedrooms, creating the perfect haven for family harmony and comfort.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1683000,
+                                "PriceHigh": 1965000,
+                                "SqFtLow": 3160,
+                                "SqFtHigh": 3160,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Blake 52",
+                                "Name": "The Blake 52",
+                                "MarketingHeadline": "Our luxurious open concept floorplan",
+                                "Description": "Introducing an exquisite two-story residence where luxury meets functionality at every turn. This meticulously designed home offers unparalleled comfort and convenience, highlighted by a luxurious ensuite that promises a retreat-like experience. With a perfect blend of sophistication and practicality, this residence sets the standard for modern living. Welcome to your dream home where every detail is tailored to elevate your lifestyle.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1524000,
+                                "PriceHigh": 1801000,
+                                "SqFtLow": 3124,
+                                "SqFtHigh": 3124,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Grayson 38",
+                                "Name": "The Grayson 38",
+                                "MarketingHeadline": "The perfect family friendly home",
+                                "Description": "Welcome to luxury living redefined in this stunning two-story residence, featuring an inviting open-concept kitchen, seamlessly blending style and functionality for effortless entertaining. Enjoy the convenience of a dedicated office space, tailored for today's remote work demands. Embrace versatility in the expansive bonus room, offering limitless potential for leisure and relaxation. Retreat to the opulent primary suite, complemented by two secondary bedrooms, creating the perfect haven for family harmony and comfort.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1495000,
+                                "PriceHigh": 1769000,
+                                "SqFtLow": 2921,
+                                "SqFtHigh": 2921,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Berkshire 34",
+                                "Name": "The Berkshire 34",
+                                "MarketingHeadline": "This luxury home has spacious primary suite",
+                                "Description": "Experience unparalleled luxury in this exceptional two-story home, boasting a triple garage for ample vehicle storage and convenience. Step into the grandeur of the open-concept main floor, seamlessly blending style and functionality, with a breathtaking open-to-above living room that exudes elegance. Find productivity and tranquility in the dedicated office space, while the expansive bonus room offers endless possibilities for leisure and entertainment. Retreat to the lavish primary suite, accompanied by two secondary bedrooms, creating an idyllic sanctuary for family living at its finest.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1532000,
+                                "PriceHigh": 1815000,
+                                "SqFtLow": 3124,
+                                "SqFtHigh": 3124,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Devonshire 36",
+                                "Name": "The Devonshire 36",
+                                "MarketingHeadline": "Spacious open concept and functional floorplan",
+                                "Description": "Discover the epitome of modern living in this impressive two-story home, complete with a triple car garage for convenience and functionality. Enjoy the spacious layout, designed to accommodate your lifestyle with ease, including a versatile main floor flex space perfect for customization to suit your needs. Unwind or entertain in the expansive bonus room, offering ample space for relaxation or leisure activities. Explore the various optional floorplan options, allowing you to personalize your living space to perfection.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1495000,
+                                "PriceHigh": 1769000,
+                                "SqFtLow": 2791,
+                                "SqFtHigh": 2791,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Somerton 38",
+                                "Name": "The Somerton 38",
+                                "MarketingHeadline": "Our best selling award winning floorplan",
+                                "Description": "Indulge in the epitome of luxury living with this exquisite two-story home, featuring a triple garage for ultimate convenience. Entertain with ease in the expansive open-concept main floor, highlighted by a captivating open-to-above living room that elevates the atmosphere. Stay productive in the thoughtfully designed office space, and unwind in the spacious bonus room, perfect for relaxation or recreation. Retreat to the opulent primary suite, accompanied by two secondary bedrooms, offering a perfect blend of comfort and style for the whole family.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1542000,
+                                "PriceHigh": 1816000,
+                                "SqFtLow": 3156,
+                                "SqFtHigh": 3156,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Easton 38",
+                                "Name": "The Easton 38",
+                                "MarketingHeadline": "Spacious main floor with options for main floor bedroom",
+                                "Description": "Step into modern elegance with this home's open-concept main floor, where spaciousness meets seamless design. Retreat to the generously sized secondary bedrooms and luxurious primary suite, offering unparalleled comfort and tranquility. Embrace versatility with a flexible main floor flex space, ready to accommodate your lifestyle with customizable options tailored to your preferences.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1474000,
+                                "PriceHigh": 1746000,
+                                "SqFtLow": 3175,
+                                "SqFtHigh": 3175,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 4,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Sheffield 34",
+                                "Name": "The Sheffield 34",
+                                "MarketingHeadline": "The perfect move up family home",
+                                "Description": "This ideal family home offers a spacious layout on both the main and upper floors, ensuring ample room for every member of the family. With abundant storage solutions and customizable floorplan options, it's designed to accommodate your family's evolving needs and lifestyle seamlessly.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1496000,
+                                "PriceHigh": 1769000,
+                                "SqFtLow": 2771,
+                                "SqFtHigh": 2771,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "The Mason 34",
+                                "Name": "The Mason 34",
+                                "MarketingHeadline": "Open concept main floor with private office space.",
+                                "Description": "Experience luxury living in this meticulously designed two-story home boasting an expansive open-concept kitchen, perfect for entertaining guests or enjoying family gatherings. Discover productivity and comfort in the stylishly appointed office space, ideal for working from home. Unwind in the spacious bonus room, offering endless possibilities for relaxation or recreation. Retreat to the lavish primary suite, flooded with natural light, and indulge in the opulent ensuite, creating a serene oasis for rejuvenation.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1500000,
+                                "PriceHigh": 1774000,
+                                "SqFtLow": 2856,
+                                "SqFtHigh": 2856,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Mason 38",
+                                "Name": "The Mason 38",
+                                "MarketingHeadline": "Open concept main floor with private office space.",
+                                "Description": "Experience luxury living in this meticulously designed two-story home boasting an expansive open-concept kitchen, perfect for entertaining guests or enjoying family gatherings. Discover productivity and comfort in the stylishly appointed office space, ideal for working from home. Unwind in the spacious bonus room, offering endless possibilities for relaxation or recreation. Retreat to the lavish primary suite, flooded with natural light, and indulge in the opulent ensuite, creating a serene oasis for rejuvenation.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1500000,
+                                "PriceHigh": 1774000,
+                                "SqFtLow": 2856,
+                                "SqFtHigh": 2856,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Palmer 30",
+                                "Name": "The Palmer 30",
+                                "Description": "NEED INFORMATION",
+                                "Type": "SingleFamily",
+                                "PriceLow": 99999999,
+                                "PriceHigh": 99999999,
+                                "SqFtLow": 3532,
+                                "SqFtHigh": 3532,
+                                "Stories": 3,
+                                "Baths": 3,
+                                "HalfBaths": 1,
+                                "Bedrooms": 4,
+                                "Garage": 0
+                            }
+                        ],
+                        "Specs": [
+                            {
+                                "ID": "The Palmer 30 227",
+                                "Name": "The Palmer",
+                                "Type": "Single Family",
+                                "PlanID": "The Palmer 30",
+                                "MarketingHeadline": "The Palmer Spec Home",
+                                "Description": "Step into luxury with The Palmer by Crystal Creek Homes, located in the prestigious Currie community. This 4452 square foot, 6-bedroom, 4.5-bathroom home is simply elegant and a must see! This sleek, open-concept home is designed for modern living, featuring a chef-inspired kitchen with separate fridge and freezer flanking the perfect balanced symmetrical kitchen, pot filler located by the stove, quartz countertops, and high-end appliances. The main floor is the perfect place to entertain friends and family with enough space for everyone. Elegant finishes, such as hardwood floors, custom cabinetry, and refreshment areas on two levels, add to its charm. The spacious bedrooms include a spa-like master ensuite, while an upper bonus room with a balcony offers breathtaking city views. Another highlight is the spacious 3 car garage which could be your dream car space! A private large, landscaped backyard connects to Currie’s lush parks and trails, blending luxury with nature seamlessly. Come experience the vibrant Currie lifestyle, offering an inspiring glimpse into the possibilities of Crystal Creek living.",
+                                "Website": "https://crystalcreekhomes.ca/quick-possessions/the-palmer-227-calais-drive-sw/",
+                                "Brochure": "https://crystalcreekhomes.ca/app/uploads/2024/04/Palmer_227CalaisDr_10244REVISED.pdf",
+                                "MoveInDate": "2025-01-01",
+                                "IsModel": false,
+                                "Price": 1859900,
+                                "Sqft": 4452,
+                                "Stories": 3.0,
+                                "Baths": 4,
+                                "HalfBaths": 1,
+                                "Bedrooms": 6,
+                                "Garage": 3,
+                                "Address": {
+                                    "Street1": "227 Calais Drive SW",
+                                    "City": "Calgary",
+                                    "Province": "AB",
+                                    "PostalCode": "T3E 8H4",
+                                    "Country": "CA",
+                                    "GeoLocation": "51.020038, -114.125184"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "Hudson in Pine Creek",
+                        "Name": "Hudson in Pine Creek",
+                        "Description": "Hudson in Pine Creek is a unique community. More than 50% of the land in the community is designated as an environmental reserve, making it a rare opportunity to build your dream home while still enjoying the beauty of country living within the city",
+                        "Website": "https://crystalcreekhomes.ca/community/hudson-in-pine-creek",
+                        "AreaID": "1",
+                        "Status": "Active",
+                        "PriceLow": 1081000,
+                        "PriceHigh": 1534000,
+                        "SqFtLow": 1657,
+                        "SqFtHigh": 3175,
+                        "CopyDivisionLeadEmail": false,
+                        "LeadEmail": "hudson@crystalcreekhomes.ca",
+                        "DrivingDirections": "Find us off of highway 2A.  Take 210 Ave SW exit west to Creekstone Hill SW and turn south - the showhome will be on your left.",
+                        "Faq": {
+                            "RealtorResources": "Crystal Creek Homes’ VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+                            "AgeRestriction": "",
+                            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                            "Incentive": "Take advantage of our exclusive 2.99% interest rate on qualifying quick possession homes. See sales centre for full details.",
+                            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                        },
+                        "SalesOffice": {
+                            "ResponseTime": "24 hours",
+                            "Hours": "Open Monday to Thursday 2 pm to 8 pm. Saturdays, Sundays, and holidays from 12 pm to 5 pm.",
+                            "Address": {
+                                "Street1": "144 Creekstone Hill SW",
+                                "City": "Calgary",
+                                "Province": "AB",
+                                "PostalCode": "T2X 5G6"
+                            },
+                            "Agent": {
+                                "Name": "Doug Milne",
+                                "EmailAddress": "hudson@crystalcreekhomes.ca"
+                            }
+                        },
+                        "Address": {
+                            "Street1": "144 Creekstone Hill SW",
+                            "Street2": "",
+                            "County": "",
+                            "City": "Calgary",
+                            "Province": "AB",
+                            "PostalCode": "T2X 5G6",
+                            "Country": "Canada",
+                            "GeoLocation": "50.86110315552299, -114.05173537819226"
+                        },
+                        "Phone": {
+                            "CountryCode": "1",
+                            "AreaCode": "403",
+                            "Prefix": "930",
+                            "Suffix": "6399",
+                            "Extension": ""
+                        },
+                        "Schools": {
+                            "Board": "Visit https://www.cbe.ab.ca or https://www.cssd.ab.ca/, or talk to our helpful area sales manager for more details on local schools.",
+                            "Primary": "",
+                            "Secondary": ""
+                        },
+                        "InteractiveMedia": {
+                            "VirtualTour": "",
+                            "DesignCenter": "",
+                            "InteractiveSitePlan": "https://crystalcreekhomes.ca/community/hudson-in-pine-creek"
+                        },
+                        "Plans": [
+                            {
+                                "ID": "TheDorchester48",
+                                "Name": "The Dorchester 48",
+                                "MarketingHeadline": "Our most popular bungalow model",
+                                "Description": "Step into elegance with this sophisticated bungalow model, featuring an open-concept main floor that seamlessly blends style and functionality. Bask in the grandeur of high ceilings, enhancing the spaciousness and ambiance of every room. Immerse yourself in luxury with meticulously curated finishes, elevating the home's aesthetic and appeal to new heights.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1498000,
+                                "PriceHigh": 1534000,
+                                "SqFtLow": 1958,
+                                "SqFtHigh": 1958,
+                                "Stories": 1,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 1,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "TheSheffield34",
+                                "Name": "The Sheffield 34",
+                                "MarketingHeadline": "The perfect move up family home",
+                                "Description": "This ideal family home offers a spacious layout on both the main and upper floors, ensuring ample room for every member of the family. With abundant storage solutions and customizable floorplan options, it's designed to accommodate your family's evolving needs and lifestyle seamlessly.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1360000,
+                                "PriceHigh": 1387000,
+                                "SqFtLow": 2771,
+                                "SqFtHigh": 2771,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "TheMason38",
+                                "Name": "The Mason 38",
+                                "MarketingHeadline": "Open concept main floor with private office space.",
+                                "Description": "Experience luxury living in this meticulously designed two-story home boasting an expansive open-concept kitchen, perfect for entertaining guests or enjoying family gatherings. Discover productivity and comfort in the stylishly appointed office space, ideal for working from home. Unwind in the spacious bonus room, offering endless possibilities for relaxation or recreation. Retreat to the lavish primary suite, flooded with natural light, and indulge in the opulent ensuite, creating a serene oasis for rejuvenation.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1365000,
+                                "PriceHigh": 1392000,
+                                "SqFtLow": 2856,
+                                "SqFtHigh": 2856,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "TheEaston38",
+                                "Name": "The Easton 38",
+                                "MarketingHeadline": "Spacious main floor with options for main floor bedroom",
+                                "Description": "Step into modern elegance with this home's open-concept main floor, where spaciousness meets seamless design. Retreat to the generously sized secondary bedrooms and luxurious primary suite, offering unparalleled comfort and tranquility. Embrace versatility with a flexible main floor flex space, ready to accommodate your lifestyle with customizable options tailored to your preferences.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1327000,
+                                "PriceHigh": 1367000,
+                                "SqFtLow": 3081,
+                                "SqFtHigh": 3081,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 4,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "TheBerkshire34",
+                                "Name": "The Berkshire 34",
+                                "MarketingHeadline": "Open to above living room with open concept main floor",
+                                "Description": "Experience unparalleled luxury in this exceptional two-story home, boasting a triple garage for ample vehicle storage and convenience. Step into the grandeur of the open-concept main floor, seamlessly blending style and functionality, with a breathtaking open-to-above living room that exudes elegance. Find productivity and tranquility in the dedicated office space, while the expansive bonus room offers endless possibilities for leisure and entertainment. Retreat to the lavish primary suite, accompanied by two secondary bedrooms, creating an idyllic sanctuary for family living at its finest.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1327000,
+                                "PriceHigh": 1367000,
+                                "SqFtLow": 2760,
+                                "SqFtHigh": 2760,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "TheDevonshire36",
+                                "Name": "The Devonshire 36",
+                                "MarketingHeadline": "Spacious open concept and functional floorplan",
+                                "Description": "Discover the epitome of modern living in this impressive two-story home, complete with a triple car garage for convenience and functionality. Enjoy the spacious layout, designed to accommodate your lifestyle with ease, including a versatile main floor flex space perfect for customization to suit your needs. Unwind or entertain in the expansive bonus room, offering ample space for relaxation or leisure activities. Explore the various optional floorplan options, allowing you to personalize your living space to perfection.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1360000,
+                                "PriceHigh": 1387000,
+                                "SqFtLow": 2791,
+                                "SqFtHigh": 2791,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "TheSomerton38",
+                                "Name": "The Somerton 38",
+                                "MarketingHeadline": "Our best selling award winning floorplan",
+                                "Description": "Indulge in the epitome of luxury living with this exquisite two-story home, featuring a triple garage for ultimate convenience. Entertain with ease in the expansive open-concept main floor, highlighted by a captivating open-to-above living room that elevates the atmosphere. Stay productive in the thoughtfully designed office space, and unwind in the spacious bonus room, perfect for relaxation or recreation. Retreat to the opulent primary suite, accompanied by two secondary bedrooms, offering a perfect blend of comfort and style for the whole family.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1407000,
+                                "PriceHigh": 1435000,
+                                "SqFtLow": 3156,
+                                "SqFtHigh": 3156,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "TheGrayson38",
+                                "Name": "The Grayson 38",
+                                "MarketingHeadline": "The perfect family friendly home",
+                                "Description": "Welcome to luxury living redefined in this stunning two-story residence, featuring an inviting open-concept kitchen, seamlessly blending style and functionality for effortless entertaining. Enjoy the convenience of a dedicated office space, tailored for today's remote work demands. Embrace versatility in the expansive bonus room, offering limitless potential for leisure and relaxation. Retreat to the opulent primary suite, complemented by two secondary bedrooms, creating the perfect haven for family harmony and comfort.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1360000,
+                                "PriceHigh": 1387000,
+                                "SqFtLow": 2921,
+                                "SqFtHigh": 2921,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "TheEverett28",
+                                "Name": "The Everett 28",
+                                "MarketingHeadline": "Functional and Beautiful floorplan",
+                                "Description": "Discover the epitome of modern living in this exquisite two-story, 2400 sq ft home. With spacious interiors, a gourmet kitchen, serene bedrooms, and lush outdoor spaces, it offers the perfect blend of comfort and luxury. Welcome to your dream abode.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1091000,
+                                "PriceHigh": 1099000,
+                                "SqFtLow": 2425,
+                                "SqFtHigh": 2425,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "Therockwell30",
+                                "Name": "The Rockwell 30",
+                                "MarketingHeadline": "The perfect family friendly home",
+                                "Description": "Indulge in the ultimate luxury living experience with this magnificent two-story, 2577 square foot home. Impeccably designed, it boasts spacious interiors adorned with high-end finishes, a chef's kitchen equipped with top-of-the-line appliances, lavish bedrooms for serene retreats, and outdoor spaces meticulously landscaped for relaxation and entertaining. Welcome to your sanctuary of opulence and comfort.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1081000,
+                                "PriceHigh": 1099000,
+                                "SqFtLow": 2577,
+                                "SqFtHigh": 2577,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            }
+                        ],
+                        "Specs": [
+                            {
+                                "ID": "Therockwell30 149",
+                                "Name": "The Rockwell",
+                                "Type": "Single Family",
+                                "PlanID": "Therockwell30",
+                                "MarketingHeadline": "The Rockwell Spec Home",
+                                "Description": "This stunning home is designed for both style and functionality, offering thoughtful details throughout. The office features decorative glass panels, adding a touch of elegance and privacy to your workspace. With an oversized double garage, there's plenty of room for both vehicles and storage. The expansive entertainer's kitchen is a chef's dream, complete with a walkthrough pantry featuring lower cabinetry for extra storage and organization. The spacious primary suite boasts a generous walk-in closet, providing ample space for all your wardrobe needs. Plus, enjoy the comfort of air conditioning, ensuring a cool, relaxing atmosphere year-round. This home is perfect for those who appreciate luxury living with practical touches.",
+                                "Website": "https://crystalcreekhomes.ca/quick-possessions/the-rockwell-149-creekstone-hill/",
+                                "Brochure": "https://crystalcreekhomes.ca/app/uploads/2024/04/149CH_rockwell_Brochure-2.pdf",
+                                "SelfGuidedTour": "https://crystalcreekhomes.ca/nternow/",
+                                "MoveInDate": "2025-01-01",
+                                "IsModel": false,
+                                "Price": 1089900,
+                                "Sqft": 2592,
+                                "Stories": 2.0,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2,
+                                "Address": {
+                                    "Street1": "149 Creekstone Hill SW",
+                                    "City": "Calgary",
+                                    "Province": "AB",
+                                    "PostalCode": "T2X 4R2",
+                                    "Country": "CA",
+                                    "GeoLocation": "50.860658, -114.052662"
+                                }
+                            },
+                            {
+                                "ID": "TheEverett28 209",
+                                "Name": "The Everett",
+                                "Type": "Single Family",
+                                "PlanID": "TheEverett28",
+                                "MarketingHeadline": "The Everett Spec Home",
+                                "Description": "This beautifully designed home offers the perfect blend of luxury and functionality. The vaulted ceilings in both the primary and bonus rooms create an open, airy feel, while the double French doors leading to the office provide an elegant touch to your workspace. The oversized double garage offers plenty of room for vehicles and storage, while the charming barn door to the ensuite adds a rustic yet modern appeal. Built with durable Hardie board siding, this home is as low-maintenance as it is stylish. Enjoy year-round comfort with central air conditioning, and a convenient mudroom with a built-in bench makes coming and going a breeze. This home is truly the perfect sanctuary for modern living.",
+                                "Website": "https://crystalcreekhomes.ca/quick-possessions/the-everett-209-creekstone-hill/",
+                                "Brochure": "https://crystalcreekhomes.ca/app/uploads/2024/04/209CHrs.pdf",
+                                "SelfGuidedTour": "https://crystalcreekhomes.ca/nternow/",
+                                "MoveInDate": "2025-01-01",
+                                "IsModel": false,
+                                "Price": 999900,
+                                "Sqft": 2487,
+                                "Stories": 2.0,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2,
+                                "Address": {
+                                    "Street1": "209 Creekstone Hl SW",
+                                    "City": "Calgary",
+                                    "Province": "AB",
+                                    "PostalCode": "T2X 4R2",
+                                    "Country": "CA",
+                                    "GeoLocation": "50.860471, -114.053226"
+                                }
+                            },
+                            {
+                                "ID": "Therockwell30 205",
+                                "Name": "The Rockwell",
+                                "Type": "Single Family",
+                                "PlanID": "Therockwell30",
+                                "MarketingHeadline": "The Rockwell Spec Home",
+                                "Description": "This exceptional home combines luxurious features with everyday convenience, creating the ideal living space. The oversized double garage offers abundant storage and parking, while the spacious primary bedroom includes a generous walk-in closet, providing plenty of room for all your belongings. A beautifully designed open-to-below stairwell creates a striking focal point as you enter. The large entertainer's kitchen is a chef's dream, seamlessly flowing into a walkthrough pantry with lower cabinetry for optimal organization. Unwind in the freestanding tub in the ensuite, offering a spa-like retreat. A practical mudroom with a built-in bench ensures an organized entryway, while air conditioning provides year-round comfort. Perfectly designed for both comfort and style, this home is the ultimate sanctuary for modern living.",
+                                "Website": "https://crystalcreekhomes.ca/quick-possessions/the-rockwell-205-creekstone-hill/",
+                                "Brochure": "https://crystalcreekhomes.ca/app/uploads/2024/04/205CH_Rockwellv2.pdf",
+                                "SelfGuidedTour": "https://crystalcreekhomes.ca/nternow/",
+                                "MoveInDate": "2025-01-01",
+                                "IsModel": false,
+                                "Price": 999900,
+                                "Sqft": 2487,
+                                "Stories": 2.0,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2,
+                                "Address": {
+                                    "Street1": "205 Creekstone Hill SW",
+                                    "City": "Calgary",
+                                    "Province": "AB",
+                                    "PostalCode": "T2X 4R2",
+                                    "Country": "CA",
+                                    "GeoLocation": "50.861648, -114.052880"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "Legacy",
+                        "Name": "Legacy",
+                        "Description": "View our quick possessions today! Timeless Living meets exceptional amenities. The community of Legacy has amazing walkability, with 15 km of scenic pathways winding through the development, past serene ponds, wide open green spaces and along the ridge of the environmental reserve. There is ample space to cycle, jog, stroll, enjoy a coffee or picnic. You can even walk from one end of the community to the other without ever leaving green space. Legacy currently has quick possession homes and a limited number of pre-sale opportunities available. ",
+                        "Website": "https://crystalcreekhomes.ca/community/legacy",
+                        "AreaID": "1",
+                        "Status": "Active",
+                        "PriceLow": 1099900,
+                        "PriceHigh": 1289900,
+                        "SqFtLow": 3341,
+                        "SqFtHigh": 3440,
+                        "CopyDivisionLeadEmail": false,
+                        "LeadEmail": "legacy@crystalcreekhomes.ca",
+                        "DrivingDirections": "Find us off of highway 2A.  Take 210 Ave SE exit east and follow it to Legacy View SE.  Turn south on Legacy View SE, and then turn east onto Legacy Woods Circle SE.",
+                        "Faq": {
+                            "RealtorResources": "Crystal Creek Homes’ VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+                            "AgeRestriction": "",
+                            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                            "Incentive": "Take advantage of our exclusive 2.99% interest rate on qualifying quick possession homes. See sales centre for full details.",
+                            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                        },
+                        "SalesOffice": {
+                            "ResponseTime": "24 hours",
+                            "Hours": "Open Monday to Thursday 2 pm to 8 pm. Saturdays, Sundays, and holidays from 12 pm to 5 pm.",
+                            "Address": {
+                                "Street1": "52 Legacy Forest Landing SE",
+                                "City": "Calgary",
+                                "Province": "AB",
+                                "PostalCode": "T2X 0X7"
+                            },
+                            "Agent": {
+                                "Name": "Doug Milne",
+                                "EmailAddress": "legacy@crystalcreekhomes.ca"
+                            }
+                        },
+                        "Address": {
+                            "Street1": "52 Legacy Forest Landing SE",
+                            "Street2": "",
+                            "County": "",
+                            "City": "Calgary",
+                            "Province": "AB",
+                            "PostalCode": "T2X 0X7",
+                            "Country": "Canada",
+                            "GeoLocation": "50.85387804665348, -114.01211801490669"
+                        },
+                        "Phone": {
+                            "CountryCode": "1",
+                            "AreaCode": "403",
+                            "Prefix": "452",
+                            "Suffix": "5697",
+                            "Extension": ""
+                        },
+                        "Schools": {
+                            "Board": "Visit https://www.cbe.ab.ca or https://www.cssd.ab.ca/, or talk to our helpful area sales manager for more details on local schools.",
+                            "Primary": "",
+                            "Secondary": ""
+                        },
+                        "InteractiveMedia": {
+                            "VirtualTour": "",
+                            "DesignCenter": "",
+                            "InteractiveSitePlan": "https://crystalcreekhomes.ca/community/legacy/"
+                        },
+                        "Plans": [
+                            {
+                                "ID": "TheDevonshire36",
+                                "Name": "The Devonshire",
+                                "MarketingHeadline": "NEED INFORMATION",
+                                "Description": "NEED INFORMATION",
+                                "Type": "NEED INFORMATION",
+                                "PriceLow": 9999999,
+                                "PriceHigh": 99999999,
+                                "SqFtLow": 2732,
+                                "SqFtHigh": 2732,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            }
+                        ],
+                        "Specs": [
+                            {
+                                "ID": "TheDevonshire36 48",
+                                "Name": "The Devonshire",
+                                "Type": "Single Family",
+                                "PlanID": "TheDevonshire36",
+                                "MarketingHeadline": "The Devonshire Spec Home",
+                                "Description": "This beautifully designed home offers the perfect combination of luxury and practicality. The spacious mudroom features a walk-in closet, providing ample storage space for coats, shoes, and more. The open-to-above Great Room creates an impressive, airy atmosphere, ideal for gatherings or quiet relaxation. Unwind in the freestanding tub of the luxurious ensuite, offering a spa-like retreat. Step outside onto the deck, perfect for enjoying outdoor living and entertaining. With air conditioning for year-round comfort and a triple car garage providing generous storage and parking, this home is designed to elevate your lifestyle with both style and functionality.",
+                                "Website": "https://crystalcreekhomes.ca/quick-possessions/the-devonshire-36-48-legacy-forest-landing-se/",
+                                "Brochure": "https://crystalcreekhomes.ca/app/uploads/2024/05/48LFL-1.pdf",
+                                "SelfGuidedTour": "https://crystalcreekhomes.ca/nternow/",
+                                "MoveInDate": "2025-01-01",
+                                "IsModel": false,
+                                "Price": 1159900,
+                                "Sqft": 2734,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3,
+                                "Address": {
+                                    "Street1": "48 Legacy Forest Landing SE",
+                                    "City": "Calgary",
+                                    "Province": "AB",
+                                    "PostalCode": "T2X 4G8",
+                                    "Country": "CA",
+                                    "GeoLocation": "50.851974, -114.002164"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "QuarryPark",
+                        "Name": "Quarry Park",
+                        "Description": "Final opportunity to live on the Bow. We have a limited number of quick possession homes available in the beautiful community of Quarry Park. With over 90 acres of parks and pathways that connect throughout the community, Quarry Park provides unprecedented access to the Bow River. Residents who live and work in Quarry Park have the convenience of walking or cycling to work. The development also places a strong emphasis on natural spaces, with a 50-acre environmental reserve that connects to Calgary’s renowned pathway system.",
+                        "Website": "https://crystalcreekhomes.ca/community/quarry-park",
+                        "AreaID": "1",
+                        "Status": "Active",
+                        "PriceLow": 1759900,
+                        "PriceHigh": 1899900,
+                        "SqFtLow": 2862,
+                        "SqFtHigh": 3305,
+                        "CopyDivisionLeadEmail": false,
+                        "LeadEmail": "quarrypark@crystalcreekhomes.ca",
+                        "DrivingDirections": "Quarry Park is easily accessed off Deerfoot Trail, or Glenmore Trail.  From Deerfoot in the south, exit on Douglasdale Boulevard heading north to 18 St SE.  Follow 18 St SE west to Douglas Glen Boulevard SE, head west to Douglas Glen Heights SE and follow that until it turns into Quarry Heights SE.  Follow Quarry Heights all the way to Quarry Way SE, and turn south to find our showhome and incredible lots.  From Glenmore Trail heading east, take the 18 St SE exit south until you get to Doublas Glen Boulevard SE, and the follow the previous directions from there.",
+                        "Faq": {
+                            "RealtorResources": "Crystal Creek Homes’ VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+                            "AgeRestriction": "",
+                            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                            "Incentive": "Take advantage of our exclusive 2.99% interest rate on qualifying quick possession homes. See sales centre for full details.",
+                            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                        },
+                        "SalesOffice": {
+                            "ResponseTime": "24 hours",
+                            "Hours": "By appointment Only",
+                            "Agent": {
+                                "Name": "Jesse Marshall",
+                                "EmailAddress": "quarrypark@crystalcreekhomes.ca"
+                            },
+                            "Address": {
+                                "Street1": "Appointment Only",
+                                "Street2": "",
+                                "County": "",
+                                "City": "Calgary",
+                                "Province": "AB",
+                                "PostalCode": "T2C 5H3",
+                                "Country": "Canada",
+                                "GeoLocation": "50.95587291273342, -114.01774398839224"
+                            },
+                            "Phone": {
+                                "CountryCode": "1",
+                                "AreaCode": "403",
+                                "Prefix": "930",
+                                "Suffix": "6397",
+                                "Extension": ""
+                            }
+                        },
+                        "Address": {
+                            "Street1": "629 Quarry Way SE",
+                            "City": "Calgary",
+                            "Province": "AB",
+                            "PostalCode": "T2C 5H3"
+                        },
+                        "Schools": {
+                            "Board": "Visit https://www.cbe.ab.ca or https://www.cssd.ab.ca/, or talk to our helpful area sales manager for more details on local schools.",
+                            "Primary": "",
+                            "Secondary": ""
+                        },
+                        "InteractiveMedia": {
+                            "VirtualTour": "",
+                            "DesignCenter": "",
+                            "InteractiveSitePlan": "https://crystalcreekhomes.ca/community/quarry-park/"
+                        },
+                        "Plans": [
+                            {
+                                "ID": "TheBlairmore",
+                                "Name": "The Blairmore",
+                                "MarketingHeadline": "The Blairmore",
+                                "Description": "",
+                                "Type": "Single Family",
+                                "PriceLow": 1899900,
+                                "PriceHigh": 1899900,
+                                "SqFtLow": 3330,
+                                "SqFtHigh": 3330,
+                                "Stories": 1,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            }
+                        ],
+                        "Specs": [
+                            {
+                                "ID": "TheBlairmore 653",
+                                "Name": "Th Blairmore",
+                                "Type": "Single Family",
+                                "PlanID": "TheBlairmore",
+                                "MarketingHeadline": "The Blairmore Spec Home",
+                                "Description": "NEED INFORMATION",
+                                "Website": "https://crystalcreekhomes.ca/quick-possessions/the-blairmore-653-quarry-way-se/",
+                                "Brochure": "https://crystalcreekhomes.ca/app/uploads/2024/05/653QW_BungalowRevised1124rs.pdf",
+                                "MoveInDate": "2025-01-01",
+                                "IsModel": false,
+                                "Price": 1899900,
+                                "Sqft": 3330,
+                                "Stories": 2.0,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3,
+                                "Address": {
+                                    "Street1": "653 Quarry Way SE",
+                                    "City": "Calgary",
+                                    "Province": "AB",
+                                    "PostalCode": "T2C 5H3",
+                                    "Country": "CA",
+                                    "GeoLocation": "50.954826, -114.017545"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "RichmondLuxe",
+                        "Name": "Richmond Luxe Townhomes",
+                        "Description": "Welcome to Richmond Luxe! 2 stunning 4-plex buildings in the desirable community of Richmond. Limited opportunities to own a modern townhome built by Crystal Creek Homes. Imeediate Possession Townhomes available!",
+                        "Website": "https://crystalcreekhomes.ca/community/quarry-park",
+                        "AreaID": "1",
+                        "Status": "Active",
+                        "PriceLow": 759900,
+                        "PriceHigh": 819900,
+                        "SqFtLow": 1994,
+                        "SqFtHigh": 2272,
+                        "CopyDivisionLeadEmail": false,
+                        "LeadEmail": "richmond@crystalcreekhomes.ca",
+                        "DrivingDirections": "Richmond Luxe is located just off 26 Ave SW between 21 St SW and 22 St SW.",
+                        "Faq": {
+                            "RealtorResources": "Crystal Creek Homes’ VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+                            "AgeRestriction": "",
+                            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                            "Incentive": "Take advantage of our exclusive 2.99% interest rate on qualifying quick possession homes. See sales centre for full details.",
+                            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                        },
+                        "SalesOffice": {
+                            "ResponseTime": "24 hours",
+                            "Hours": "Saturday and Sundaysfrom 12 pm to 5 pm.",
+                            "Agent": {
+                                "Name": "Jesse Marshall",
+                                "EmailAddress": "quarrypark@crystalcreekhomes.ca"
+                            },
+                            "Address": {
+                                "Street1": "2220 26 Ave SW",
+                                "Street2": "",
+                                "County": "",
+                                "City": "Calgary",
+                                "Province": "AB",
+                                "PostalCode": "T2T 1E8",
+                                "Country": "Canada",
+                                "GeoLocation": "51.03071637772546, -114.11296230188145"
+                            },
+                            "Phone": {
+                                "CountryCode": "1",
+                                "AreaCode": "403",
+                                "Prefix": "930",
+                                "Suffix": "6390",
+                                "Extension": ""
+                            }
+                        },
+                        "Address": {
+                            "Street1": "2220 26 Ave SW",
+                            "Street2": "",
+                            "County": "",
+                            "City": "Calgary",
+                            "Province": "AB",
+                            "PostalCode": "T2T 1E8",
+                            "Country": "Canada",
+                            "GeoLocation": "51.03071637772546, -114.11296230188145"
+                        },
+                        "Schools": {
+                            "Board": "Visit https://www.cbe.ab.ca or https://www.cssd.ab.ca/, or talk to our helpful area sales manager for more details on local schools.",
+                            "Primary": "",
+                            "Secondary": ""
+                        },
+                        "InteractiveMedia": {
+                            "VirtualTour": "",
+                            "DesignCenter": "",
+                            "InteractiveSitePlan": "https://crystalcreekhomes.ca/community/richmond/"
+                        }
+                    },
+                    {
+                        "ID": "Rockland Park",
+                        "Name": "Rockland Park",
+                        "Description": "This master planned community features year-round amenities, including a community clubhouse with an outdoor pool. One of the many reasons Rockland Park was named New Community of the Year in 2021 is due to its embrace of nature and neighborhood. Build your dream uber estate home on the environmental reserve ridge in Rockland Park with one-of-a-kind views of the Bow River and our beloved Rocky Mountains.  With close proximity to the bustling city and the tranquility of the mountains, Rockland Park is the place you want to call home.  Come visit us at the Rockland Park Discovery Centre!  Register now for opportunities in this community, and watch for our showhome opening in late 2024.",
+                        "Website": "https://crystalcreekhomes.ca/community/quarry-park",
+                        "AreaID": "1",
+                        "Status": "Active",
+                        "PriceLow": 1510000,
+                        "PriceHigh": 1797000,
+                        "SqFtLow": 1958,
+                        "SqFtHigh": 3156,
+                        "CopyDivisionLeadEmail": false,
+                        "LeadEmail": "rocklandpark@crystalcreekhomes.ca",
+                        "DrivingDirections": "Find Rockland Park off Nose Hill Drive NW.  Follow Nose Hill Drive to the traffic circle in the community, then continue west on Rowmont Boulevard NW to Royston Rise NW.  Follow Royston Rise south to Rowmont Drive NW and look for our showhome on the ridge on the south side.",
+                        "Faq": {
+                            "RealtorResources": "Crystal Creek Homes’ VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+                            "AgeRestriction": "",
+                            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                            "Incentive": "Take advantage of our exclusive 2.99% interest rate on qualifying quick possession homes. See sales centre for full details.",
+                            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                        },
+                        "SalesOffice": {
+                            "ResponseTime": "24 hours",
+                            "Hours": "Open Monday to Thursday 2 pm to 8 pm. Saturdays, Sundays, and holidays from 12 pm to 5 pm.",
+                            "Agent": {
+                                "Name": "Jesse Marshall",
+                                "EmailAddress": "rocklandpark@crystalcreekhomes.ca"
+                            },
+                            "Address": {
+                                "Street1": "233 Rowmount Drive NW",
+                                "Street2": "",
+                                "County": "",
+                                "City": "Calgary",
+                                "Province": "AB",
+                                "PostalCode": "T3L 0G6",
+                                "Country": "Canada",
+                                "GeoLocation": "51.1062712270615, -114.26800291722307"
+                            },
+                            "Phone": {
+                                "CountryCode": "1",
+                                "AreaCode": "403",
+                                "Prefix": "686",
+                                "Suffix": "4176",
+                                "Extension": ""
+                            }
+                        },
+                        "Address": {
+                            "Street1": "233 Rowmount Drive NW",
+                            "Street2": "",
+                            "County": "",
+                            "City": "Calgary",
+                            "Province": "AB",
+                            "PostalCode": "T3L 0G6",
+                            "Country": "Canada",
+                            "GeoLocation": "51.1062712270615, -114.26800291722307"
+                        },
+                        "Schools": {
+                            "Board": "Visit https://www.cbe.ab.ca or https://www.cssd.ab.ca/, or talk to our helpful area sales manager for more details on local schools.",
+                            "Primary": "",
+                            "Secondary": ""
+                        },
+                        "InteractiveMedia": {
+                            "VirtualTour": "",
+                            "DesignCenter": "",
+                            "InteractiveSitePlan": "https://crystalcreekhomes.ca/community/rockland-park/"
+                        },
+                        "Plans": [
+                            {
+                                "ID": "The Dorchester 48",
+                                "Name": "The Dorchester 48",
+                                "MarketingHeadline": "Our most popular bungalow model",
+                                "Description": "Step into elegance with this sophisticated bungalow model, featuring an open-concept main floor that seamlessly blends style and functionality. Bask in the grandeur of high ceilings, enhancing the spaciousness and ambiance of every room. Immerse yourself in luxury with meticulously curated finishes, elevating the home's aesthetic and appeal to new heights.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1648000,
+                                "PriceHigh": 1707000,
+                                "SqFtLow": 1958,
+                                "SqFtHigh": 1958,
+                                "Stories": 1,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 1,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Sheffield 34",
+                                "Name": "The Sheffield 34",
+                                "MarketingHeadline": "The perfect move up family home",
+                                "Description": "This ideal family home offers a spacious layout on both the main and upper floors, ensuring ample room for every member of the family. With abundant storage solutions and customizable floorplan options, it's designed to accommodate your family's evolving needs and lifestyle seamlessly.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1510000,
+                                "PriceHigh": 1600000,
+                                "SqFtLow": 2771,
+                                "SqFtHigh": 2771,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 2
+                            },
+                            {
+                                "ID": "The Mason 34",
+                                "Name": "The Mason 34",
+                                "MarketingHeadline": "Open concept main floor with private office space.",
+                                "Description": "Experience luxury living in this meticulously designed two-story home boasting an expansive open-concept kitchen, perfect for entertaining guests or enjoying family gatherings. Discover productivity and comfort in the stylishly appointed office space, ideal for working from home. Unwind in the spacious bonus room, offering endless possibilities for relaxation or recreation. Retreat to the lavish primary suite, flooded with natural light, and indulge in the opulent ensuite, creating a serene oasis for rejuvenation.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1555000,
+                                "PriceHigh": 1606000,
+                                "SqFtLow": 2856,
+                                "SqFtHigh": 2856,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Grayson 38",
+                                "Name": "The Grayson 38",
+                                "MarketingHeadline": "The perfect family friendly home",
+                                "Description": "Welcome to luxury living redefined in this stunning two-story residence, featuring an inviting open-concept kitchen, seamlessly blending style and functionality for effortless entertaining. Enjoy the convenience of a dedicated office space, tailored for today's remote work demands. Embrace versatility in the expansive bonus room, offering limitless potential for leisure and relaxation. Retreat to the opulent primary suite, complemented by two secondary bedrooms, creating the perfect haven for family harmony and comfort.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1550000,
+                                "PriceHigh": 1600000,
+                                "SqFtLow": 2921,
+                                "SqFtHigh": 2921,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Somerfield 46",
+                                "Name": "The Somerfield 46",
+                                "MarketingHeadline": "Stunning Open Concept floorplan",
+                                "Description": "Welcome to luxury living redefined in this stunning two-story residence, featuring an inviting open-concept kitchen, seamlessly blending style and functionality for effortless entertaining. Enjoy the convenience of a dedicated office space, tailored for today's remote work demands. Embrace versatility in the expansive bonus room, offering limitless potential for leisure and relaxation. Retreat to the opulent primary suite, complemented by two secondary bedrooms, creating the perfect haven for family harmony and comfort.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1738000,
+                                "PriceHigh": 1797000,
+                                "SqFtLow": 3160,
+                                "SqFtHigh": 3160,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            }
+                        ],
+                        "Specs": [
+                            {
+                                "ID": "The Somerfield 46 237",
+                                "Name": "The Somerfield",
+                                "Type": "Single Family",
+                                "PlanID": "The Somerfield 46",
+                                "MarketingHeadline": "The Somerfield Spec Home",
+                                "Description": "This exquisite home blends beauty and functionality, starting with a gorgeous, functional kitchen that serves as the heart of the home, featuring top-tier appliances and custom cabinetry for an elevated cooking experience. The spacious primary suite offers a serene retreat, complete with a luxurious ensuite designed for ultimate comfort. Throughout the home, upgraded baths with electric floor heat tiles add a touch of modern luxury. Step outside to enjoy an extended rear deck and a pressure-treated exterior deck, perfect for outdoor relaxation and entertaining. The bonus room, with its impressive 10″ raised ceiling detail, provides additional space for any need, whether for a home office, playroom, or entertainment area. Completing this masterpiece is the fully developed basement, an entertainer's dream with a basement bar featuring quartz countertops and custom cabinetry, a home gym for fitness enthusiasts, and ample space for relaxation. This home offers a seamless blend of luxury, practicality, and thoughtful design, providing a lifestyle of comfort and elegance.",
+                                "Website": "https://crystalcreekhomes.ca/quick-possessions/the-somerfield-237-rowmont-drive/",
+                                "Brochure": "https://crystalcreekhomes.ca/app/uploads/2024/04/237RDSomerfield_Brochure1024Revised.pdf",
+                                "SelfGuidedTour": "https://crystalcreekhomes.ca/nternow/",
+                                "MoveInDate": "2025-01-01",
+                                "IsModel": false,
+                                "Price": 1975900,
+                                "Sqft": 4584,
+                                "Baths": 4,
+                                "HalfBaths": 1,
+                                "Bedrooms": 5,
+                                "Garage": 3,
+                                "Address": {
+                                    "Street1": "237 Rowmont Drive NW",
+                                    "City": "Calgary",
+                                    "Province": "AB",
+                                    "PostalCode": "T3L 0G4",
+                                    "Country": "CA",
+                                    "GeoLocation": "51.105172, -114.277470"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "UniDistrict",
+                        "Name": "GUILD Townhomes at University District",
+                        "Description": "GUILD Townhomes at University District now pre-selling! Our luxury townhome project will offer 40, two and three-bedroom townhouse units across six buildings, combining elegance and comfort. Each unit will boast over 2,000 sq. ft. private elevators, rooftop patios and double garages, main floor balconies, modern amenities, spacious layouts and sophisticated design elements. Located in the urban community of University District residents will enjoy an amenity rich community with parks, pathways and a vibrant retail main street with everything you need. ",
+                        "Website": "https://crystalcreekhomes.ca/community/guild",
+                        "AreaID": "1",
+                        "Status": "Active",
+                        "PriceLow": 1300000,
+                        "PriceHigh": 1500000,
+                        "SqFtLow": 2000,
+                        "SqFtHigh": 2000,
+                        "CopyDivisionLeadEmail": false,
+                        "LeadEmail": "guild@crystalcreekhomes.ca",
+                        "DrivingDirections": "Coming in late 2024.",
+                        "Faq": {
+                            "RealtorResources": "Crystal Creek Homes’ VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+                            "AgeRestriction": "",
+                            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                            "Incentive": "Personlize your townhome for a limited time, construction starting Fall 2024",
+                            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                        },
+                        "SalesOffice": {
+                            "ResponseTime": "24 hours",
+                            "Hours": "Open Tuesday to Thursday 1 pm to 7 pm. Fridays, Saturdays, Sundays, and holidays from 12 pm to 5 pm.",
+                            "Agent": {
+                                "Name": "Andrea Irwin",
+                                "EmailAddress": "guild@crystalcreekhomes.ca"
+                            },
+                            "Address": {
+                                "Street1": "4410 University Ave NW",
+                                "Street2": "",
+                                "County": "",
+                                "City": "Calgary",
+                                "Province": "AB",
+                                "PostalCode": "T2L 2K7",
+                                "Country": "Canada",
+                                "GeoLocation": ""
+                            },
+                            "Phone": {
+                                "CountryCode": "",
+                                "AreaCode": "",
+                                "Prefix": "",
+                                "Suffix": "",
+                                "Extension": ""
+                            }
+                        },
+                        "Address": {
+                            "Street1": "4410 University Ave NW",
+                            "Street2": "",
+                            "County": "",
+                            "City": "Calgary",
+                            "Province": "AB",
+                            "PostalCode": "T2L 2K7",
+                            "Country": "Canada",
+                            "GeoLocation": ""
+                        },
+                        "Schools": {
+                            "Board": "Visit https://www.cbe.ab.ca or https://www.cssd.ab.ca/, or talk to our helpful area sales manager for more details on local schools.",
+                            "Primary": "",
+                            "Secondary": ""
+                        },
+                        "InteractiveMedia": {
+                            "VirtualTour": "",
+                            "DesignCenter": "",
+                            "InteractiveSitePlan": "https://crystalcreekhomes.ca/community/guild/"
+                        }
+                    },
+                    {
+                        "ID": "Watermark",
+                        "Name": "Watermark at Bearspaw",
+                        "Description": "Final two opportunities available! Welcome to Watermark, an executive community that boasts unparalleled amenities and breathtaking views of the Rocky Mountains. Here, you’ll find a peaceful and relaxed pace of living, with spacious homesites that offer plenty of room to explore and enjoy the great outdoors. Located in the highly sought-after Bearspaw area, Watermark features average lot sizes ranging from 1/4 to 1 acre, providing endless opportunities for adventure right in your very own backyard.",
+                        "Website": "https://crystalcreekhomes.ca/community/watermark-at-bearspaw/",
+                        "AreaID": "1",
+                        "Status": "Active",
+                        "PriceLow": 1288000,
+                        "PriceHigh": 2138000,
+                        "SqFtLow": 2043,
+                        "SqFtHigh": 4703,
+                        "CopyDivisionLeadEmail": false,
+                        "LeadEmail": "watermark@crystalcreekhomes.ca",
+                        "DrivingDirections": "Follow Crowchild Trail north to 12 Mile Coulee Road NW.  Head south to Township Road 252 and turn west to Watermark Ave NW and follow it north to the showhome.",
+                        "Faq": {
+                            "RealtorResources": "Crystal Creek Homes’ VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+                            "AgeRestriction": "",
+                            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                            "Incentive": "Take advantage of our exclusive 2.99% interest rate on qualifying quick possession homes. See sales centre for full details.",
+                            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                        },
+                        "SalesOffice": {
+                            "ResponseTime": "24 hours",
+                            "Hours": "Open Monday to Thursday 2 pm to 8 pm. Saturdays, Sundays, and holidays from 12 pm to 5 pm.",
+                            "Agent": {
+                                "Name": "Guneet Pandher",
+                                "EmailAddress": "watermark@crystalcreekhomes.ca"
+                            },
+                            "Address": {
+                                "Street1": "4 Watermark Lane NW",
+                                "Street2": "",
+                                "County": "",
+                                "City": "Calgary",
+                                "Province": "AB",
+                                "PostalCode": "T3L 2P4",
+                                "Country": "Canada",
+                                "GeoLocation": "51.1279896700824, -114.27513704420609"
+                            },
+                            "Phone": {
+                                "CountryCode": "1",
+                                "AreaCode": "403",
+                                "Prefix": "930",
+                                "Suffix": "6388",
+                                "Extension": ""
+                            }
+                        },
+                        "Address": {
+                            "Street1": "4 Watermark Lane NW",
+                            "Street2": "",
+                            "County": "",
+                            "City": "Calgary",
+                            "Province": "AB",
+                            "PostalCode": "T3L 2P4",
+                            "Country": "Canada",
+                            "GeoLocation": "51.1279896700824, -114.27513704420609"
+                        },
+                        "Schools": {
+                            "Board": "Visit https://www.cbe.ab.ca or https://www.cssd.ab.ca/, or talk to our helpful area sales manager for more details on local schools.",
+                            "Primary": "",
+                            "Secondary": ""
+                        },
+                        "InteractiveMedia": {
+                            "VirtualTour": "",
+                            "DesignCenter": "",
+                            "InteractiveSitePlan": "https://crystalcreekhomes.ca/community/watermark/"
+                        },
+                        "Plans": [
+                            {
+                                "ID": "The Dorchester 48",
+                                "Name": "The Dorchester 48",
+                                "MarketingHeadline": "Our most popular bungalow model",
+                                "Description": "Step into elegance with this sophisticated bungalow model, featuring an open-concept main floor that seamlessly blends style and functionality. Bask in the grandeur of high ceilings, enhancing the spaciousness and ambiance of every room. Immerse yourself in luxury with meticulously curated finishes, elevating the home's aesthetic and appeal to new heights.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1447000,
+                                "PriceHigh": 1737000,
+                                "SqFtLow": 2043,
+                                "SqFtHigh": 2043,
+                                "Stories": 1,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 1,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Somerfield 46",
+                                "Name": "The Somerfield 46",
+                                "MarketingHeadline": "Stunning Open Concept floorplan",
+                                "Description": "Welcome to luxury living redefined in this stunning two-story residence, featuring an inviting open-concept kitchen, seamlessly blending style and functionality for effortless entertaining. Enjoy the convenience of a dedicated office space, tailored for today's remote work demands. Embrace versatility in the expansive bonus room, offering limitless potential for leisure and relaxation. Retreat to the opulent primary suite, complemented by two secondary bedrooms, creating the perfect haven for family harmony and comfort.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1447000,
+                                "PriceHigh": 1737000,
+                                "SqFtLow": 3160,
+                                "SqFtHigh": 3160,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Blake 52",
+                                "Name": "The Blake 52",
+                                "MarketingHeadline": "Our luxurious open concept floorplan",
+                                "Description": "Introducing an exquisite two-story residence where luxury meets functionality at every turn. This meticulously designed home offers unparalleled comfort and convenience, highlighted by a luxurious ensuite that promises a retreat-like experience. With a perfect blend of sophistication and practicality, this residence sets the standard for modern living. Welcome to your dream home where every detail is tailored to elevate your lifestyle.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1288000,
+                                "PriceHigh": 1573000,
+                                "SqFtLow": 3124,
+                                "SqFtHigh": 3124,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Holden",
+                                "Name": "The Holden",
+                                "MarketingHeadline": "The kitchen of your dreams",
+                                "Description": "Experience the epitome of modern luxury in this exquisite two-story home, where sophistication meets practicality. Entertain effortlessly in the chic open-concept kitchen, designed to seamlessly fuse style and functionality. Stay productive in the dedicated office space, catering to the demands of remote work. Unwind in the spacious bonus room, a versatile area ideal for leisure and relaxation. Indulge in the lavish primary suite, accompanied by two secondary bedrooms, fostering an atmosphere of familial harmony and comfort. Welcome to a new standard of refined living.",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1693000,
+                                "PriceHigh": 1963000,
+                                "SqFtLow": 3582,
+                                "SqFtHigh": 3582,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            },
+                            {
+                                "ID": "The Waterford",
+                                "Name": "The Waterford",
+                                "MarketingHeadline": "Where Luxury meets Comfort",
+                                "Description": "has been meticulously crafted to redefine opulence. Delight in the gourmet open-concept kitchen, where style effortlessly intertwines with functionality, setting the stage for unforgettable gatherings. Elevate your productivity in the bespoke home office, curated to cater to the highest standards of remote work. Immerse yourself in the boundless possibilities of the expansive bonus room, a haven of relaxation and leisure. Retreat to the sumptuous primary suite, accompanied by two secondary bedrooms, each exuding an aura of refined comfort and tranquility. Prepare to experience a lifestyle of unparalleled sophistication and indulgence",
+                                "Type": "SingleFamily",
+                                "PriceLow": 1868000,
+                                "PriceHigh": 2138000,
+                                "SqFtLow": 4703,
+                                "SqFtHigh": 4703,
+                                "Stories": 2,
+                                "Baths": 2,
+                                "HalfBaths": 1,
+                                "Bedrooms": 3,
+                                "Garage": 3
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "Pine Creek Villas",
+                        "Name": "Pine Creek Villas",
+                        "Description": "Now Pre-selling! Introducing our exclusive collection of 28 modern farmhouse villas, nestled in the serene outskirts of Calgary. Each villa is a work of art, combining modern style with rustic elegant charm. Step inside and be greeted by spacious interiors flooded with natural light, thoughtfully designed floorplans with a stunning kitchen design. From cozy evenings by the fireplace to breathtaking views of the surrounding landscapes, every moment is crafted for indulgence. Elevate your lifestyle and seize the opportunity to call one of these villas your own—a retreat where luxury meets tranquility.",
+                        "Website": "https://crystalcreekhomes.ca/community/pine-creek-villas/",
+                        "AreaID": "1",
+                        "Status": "Active",
+                        "CopyDivisionLeadEmail": false,
+                        "LeadEmail": "pinecreekvillas@crystalcreekhomes.ca",
+                        "DrivingDirections": "To get to Pine Creek Villas at Heritage Pointe from downtown Calgary, head south on Macleod Trail (Highway 2), take the exit onto Highway 22X East, and follow signs to Heritage Pointe Blvd.",
+                        "Faq": {
+                            "RealtorResources": "Crystal Creek Homes’ VIP realtors enjoy a host of great benefits for themselves and their clients.  Register at https://crystalcreekhomes.ca/about-us",
+                            "CurrentHomeowner": "Looking for information about your warranty?  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "LoginCredentials": "For customer login information, please use the Forgot Password link in your Crystal Creek Homes app, or the HomeKeep app.",
+                            "Careers": "For current job postings, please check out https://crystalcreekhomes.ca/contact-us/#career",
+                            "AgeRestriction": "",
+                            "EnergyEfficiency": "Crystal Creek uses sophisticated software to produce a model of each home's expected energy useage, and conducts real-world verification to ensure our houses are built to our standards and that our customers can count on moving into a home that surpasses current building codes.",
+                            "Incentive": "Take advantage of our exclusive 2.99% interest rate on qualifying quick possession homes. See sales centre for full details.",
+                            "Financing": "Crystal Creek works with local mortgage brokers that are familiar with our markets, and can offer many financing options.  Our Area Managers will be happy to assist you.",
+                            "Warranty": "Looking for information about your warranty?  Crystal Creek works with many top warranty providers in our communities to ensure quality coverage for our homeowners.  Information can be found in your possession binder, or if you took possession of your home after February 1 2024 please check your HomeKeep app.",
+                            "BuildOnYourLot": "At the moment, Crystal Creek Homes does not build on purchaser-owned lots.",
+                            "BuildTimeline": "Current building timelines vary by community and by the size and complexity of the home.  For information specific to the community you are interested in, please contact the community Area Manager.",
+                            "DevelopmentPhase": "Please refer to the community lot maps for information current development phases.",
+                            "LotPremium": "Lot premiums may apply to specific amenity lots, please contact the community Area Manager for details on lot pricing."
+                        },
+                        "SalesOffice": {
+                            "ResponseTime": "24 hours",
+                            "Hours": "Pre-Selling!",
+                            "Agent": {
+                                "Name": "Jesse Marshall",
+                                "EmailAddress": "pinecreekvillas@crystalcreekhomes.ca"
+                            },
+                            "Address": {
+                                "Street1": "Appointment Only",
+                                "Street2": "",
+                                "County": "",
+                                "City": "Calgary",
+                                "Province": "AB",
+                                "PostalCode": "T2C 5H3",
+                                "Country": "Canada",
+                                "GeoLocation": "50.845398, -114.018960"
+                            },
+                            "Phone": {
+                                "CountryCode": "1",
+                                "AreaCode": "587",
+                                "Prefix": "390",
+                                "Suffix": "6000",
+                                "Extension": ""
+                            }
+                        },
+                        "Address": {
+                            "Street1": "Pine Creek Road",
+                            "City": "Calgary",
+                            "Province": "AB",
+                            "PostalCode": "T2C 5H3"
+                        },
+                        "Schools": {
+                            "Board": "Visit https://www.cbe.ab.ca or https://www.cssd.ab.ca/, or talk to our helpful area sales manager for more details on local schools.",
+                            "Primary": "",
+                            "Secondary": ""
+                        },
+                        "InteractiveMedia": {
+                            "VirtualTour": "",
+                            "DesignCenter": "",
+                            "InteractiveSitePlan": "https://crystalcreekhomes.ca/community/pine-creek-villas/"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
